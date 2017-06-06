@@ -1,21 +1,30 @@
 #!/usr/bin/python
+#coding:utf-8
 
 import dns.resolver
 import os
 import httplib
 
 iplist=[]    #定义域名IP列表变量
-appdomain="www.google.com.hk"    #定义业务域名
+appdomain="fdl66.github.io"    #定义业务域名
 
 def get_iplist(domain=""):    #域名解析函数，解析成功IP将追加到iplist
     try:
-        A = dns.resolver.query(domain, 'A')    #解析A记录类型
+        cname = dns.resolver.query(domain, 'CNAME')
+        domains = []
+        for i in cname.response.answer:
+            for j in i.items:
+                print j.to_text()+"debug"
+                domains.append(j)
+        for dom in domains:
+            A=dns.resolver.query(str(dom),'A')  # 解析A记录类型
+            for i in A.response.answer:
+                for j in i.items:
+                    print j.address+"debug"
+                    iplist.append(j.address)  # 追加到iplist
     except Exception,e:
         print "dns resolver error:"+str(e)
         return
-    for i in A.response.answer:
-        for j in i.items:
-            iplist.append(j.address)    #追加到iplist
     return True
 
 def checkip(ip):
@@ -29,6 +38,7 @@ def checkip(ip):
         r=conn.getresponse()
         getcontent =r.read(15)   #获取URL页面前15个字符，以便做可用性校验
     finally:
+        print getcontent+"debug"
         if getcontent=="<!doctype html>":  #监控URL页的内容一般是事先定义好，比如“HTTP200”等
             print ip+" [OK]"
         else:
