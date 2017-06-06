@@ -170,7 +170,29 @@ sdiskio(read_count=719566, write_count=1082197, read_bytes=18626220032, write_by
 
 
 ## 实用的IP地址处理模块`IPy`
+```python
+#!/usr/bin/env python
 
+from IPy import IP
+
+ip_s = raw_input('Please input an IP or net-range: ')
+ips = IP(ip_s)
+
+
+if len(ips) > 1:
+    print('net: %s' % ips.net()) #输出网络地址
+    print('netmask: %s' % ips.netmask()) #输出网络掩码地址
+    print('broadcast: %s' % ips.broadcast())  #输出广播地址
+    print('reverse address: %s' % ips.reverseNames()[0])  #输出地址反向解析
+    print('subnet: %s' % len(ips)) #输出网络子网数
+else:
+    print('reverse address: %s' % ips.reverseNames()[0])
+
+print('hexadecimal: %s' % ips.strHex()) #十六进制地址
+print('binary ip: %s' % ips.strBin()) #二进制地址
+print('iptype: %s' % ips.iptype()) #地址类型
+
+```
 
 ## DNS处理模块`dnspython`
 
