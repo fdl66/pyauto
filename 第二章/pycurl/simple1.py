@@ -4,7 +4,9 @@ import time
 import sys
 import pycurl
 
-URL="http://www.google.com.hk"
+# URL="http://www.google.com.hk"
+# URL="http://www.baidu.com"
+URL="dearamaze.com"
 c = pycurl.Curl()
 c.setopt(pycurl.URL, URL)
                 

@@ -1,7 +1,7 @@
 import filecmp
 
-a="/home/test/filecmp/dir1"
-b="/home/test/filecmp/dir2"
+a="./dir1"
+b="./dir2"
 
 dirobj=filecmp.dircmp(a,b,['test.py'])
 

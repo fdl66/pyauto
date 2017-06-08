@@ -4,10 +4,10 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from email.mime.image import MIMEImage
 
-HOST = "smtp.gmail.com"
+HOST = "smtp.163.com"
 SUBJECT = u"业务性能数据报表"
-TO = "test@qq.com"
-FROM = "test@gmail.com"
+TO = "1213886356@qq.com"
+FROM = "fan0816fan@163.com"
 
 def addimg(src,imgid):
     fp = open(src, 'rb')
@@ -46,7 +46,7 @@ try:
     server = smtplib.SMTP()
     server.connect(HOST,"25")
     server.starttls()
-    server.login("test@gmail.com","123456")
+    server.login("fan0816fan@163.com","******")
     server.sendmail(FROM, TO, msg.as_string())
     server.quit()
     print "邮件发送成功！"

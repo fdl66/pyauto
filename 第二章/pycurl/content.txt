@@ -1,29 +1,2568 @@
 HTTP/1.1 200 OK
-Date: Fri, 25 Apr 2014 12:26:34 GMT
-Expires: -1
-Cache-Control: private, max-age=0
-Content-Type: text/html; charset=Big5
-Set-Cookie: PREF=ID=c56236c89468b40e:FF=0:NW=1:TM=1398428794:LM=1398428794:S=9r4ijqBWdubkPPge; expires=Sun, 24-Apr-2016 12:26:34 GMT; path=/; domain=.google.com.hk
-Set-Cookie: NID=67=LAeGwy0FyIcqDMCUId-5wGBz5uTYJW1EsWhF9raHwiHJMxThaQ8YR7U3FTje_tRCg_eN1KetMK8mpldtpxg3nafbbGOMAfQdWEj8MMZglBlRynavY7u0pNGulw9VItgh; expires=Sat, 25-Oct-2014 12:26:34 GMT; path=/; domain=.google.com.hk; HttpOnly
-P3P: CP="This is not a P3P policy! See http://www.google.com/support/accounts/bin/answer.py?hl=en&answer=151657 for more info."
-Server: gws
-X-XSS-Protection: 1; mode=block
-X-Frame-Options: SAMEORIGIN
-Alternate-Protocol: 80:quic
-Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Content-Length: 105356
+Content-Type: text/html; charset=utf-8
+Date: Thu, 08 Jun 2017 16:21:31 GMT
 
-<!doctype html><html itemscope="" itemtype="http://schema.org/WebPage" lang="zh-HK"><head><meta content="/images/google_favicon_128.png" itemprop="image"><title>Google</title><script>(function(){
-window.google={kEI:"elRaU9WoJZCHkgXt1oHIAw",getEI:function(a){for(var b;a&&(!a.getAttribute||!(b=a.getAttribute("eid")));)a=a.parentNode;return b||google.kEI},https:function(){return"https:"==window.location.protocol},kEXPI:"17259,4000116,4007661,4007830,4008142,4009033,4009352,4009641,4010806,4010858,4010899,4011228,4011258,4011679,4011959,4012373,4012504,4012859,4013374,4013414,4013591,4013723,4013787,4013823,4013941,4013967,4013979,4014016,4014093,4014431,4014515,4014636,4014671,4014804,4014810,4014813,4014828,4014991,4015119,4015155,4015234,4015260,4015339,4015519,4015550,4015635,4015638,4015639,4015772,4015901,4016005,4016127,4016309,4016323,4016363,4016367,4016373,4016391,4016425,4016466,4016479,4016487,4016623,4016703,4016730,4016767,4016786,4016800,4016815,4016824,4016851,4016855,4016933,4016949,4016952,4016969,4016978,4016979,4017042,4017079,4017177,4017202,4017206,4017261,4017280,4017284,4017300,4017336,4017556,4017606,8300015,8300017,8500165,8500223,8500240,8500252,8500283,8500306,8500314,8500325,8500331,8500349,10200002,10200012,10200029,10200038,10200040,10200048,10200053,10200055,10200066,10200083,10200120,10200134,10200136,10200155,10200157,10200159,10200164,10200178,10200195,10200211,10200215,10200221,10200224,10200226,10200231,10200246",kCSI:{e:"17259,4000116,4007661,4007830,4008142,4009033,4009352,4009641,4010806,4010858,4010899,4011228,4011258,4011679,4011959,4012373,4012504,4012859,4013374,4013414,4013591,4013723,4013787,4013823,4013941,4013967,4013979,4014016,4014093,4014431,4014515,4014636,4014671,4014804,4014810,4014813,4014828,4014991,4015119,4015155,4015234,4015260,4015339,4015519,4015550,4015635,4015638,4015639,4015772,4015901,4016005,4016127,4016309,4016323,4016363,4016367,4016373,4016391,4016425,4016466,4016479,4016487,4016623,4016703,4016730,4016767,4016786,4016800,4016815,4016824,4016851,4016855,4016933,4016949,4016952,4016969,4016978,4016979,4017042,4017079,4017177,4017202,4017206,4017261,4017280,4017284,4017300,4017336,4017556,4017606,8300015,8300017,8500165,8500223,8500240,8500252,8500283,8500306,8500314,8500325,8500331,8500349,10200002,10200012,10200029,10200038,10200040,10200048,10200053,10200055,10200066,10200083,10200120,10200134,10200136,10200155,10200157,10200159,10200164,10200178,10200195,10200211,10200215,10200221,10200224,10200226,10200231,10200246",ei:"elRaU9WoJZCHkgXt1oHIAw"},authuser:0,ml:function(){},kHL:"zh-TW",time:function(){return(new Date).getTime()},log:function(a,b,c,h,k){var d=
-new Image,f=google.lc,e=google.li,g="";d.onerror=d.onload=d.onabort=function(){delete f[e]};f[e]=d;c||-1!=b.search("&ei=")||(g="&ei="+google.getEI(h));c=c||"/"+(k||"gen_204")+"?atyp=i&ct="+a+"&cad="+b+g+"&zx="+google.time();a=/^http:/i;a.test(c)&&google.https()?(google.ml(Error("GLMM"),!1,{src:c}),delete f[e]):(d.src=c,google.li=e+1)},lc:[],li:0,y:{},x:function(a,b){google.y[a.id]=[a,b];return!1},load:function(a,b,c){google.x({id:a+l++},function(){google.load(a,b,c)})}};var l=0;})();
-(function(){google.sn="webhp";google.timers={};google.startTick=function(a,b){var f=google.time();google.timers[a]={t:{start:f},bfr:!!b};};google.tick=function(a,b,f){google.timers[a]||google.startTick(a);google.timers[a].t[b]=f||google.time()};google.startTick("load",!0);
-try{}catch(d){}})();
-var _gjwl=location;function _gjuc(){var a=_gjwl.href.indexOf("#");if(0<=a&&(a=_gjwl.href.substring(a),0<a.indexOf("&q=")||0<=a.indexOf("#q="))&&(a=a.substring(1),-1==a.indexOf("#"))){for(var d=0;d<a.length;){var b=d;"&"==a.charAt(b)&&++b;var c=a.indexOf("&",b);-1==c&&(c=a.length);b=a.substring(b,c);if(0==b.indexOf("fp="))a=a.substring(0,d)+a.substring(c,a.length),c=d;else if("cad=h"==b)return 0;d=c}_gjwl.href="/search?"+a+"&cad=h";return 1}return 0}
-function _gjh(){!_gjuc()&&window.google&&google.x&&google.x({id:"GJH"},function(){google.nav&&google.nav.gjh&&google.nav.gjh()})};
-window._gjh&&_gjh();</script><style>#gbar,#guser{font-size:13px;padding-top:1px !important;}#gbar{height:22px}#guser{padding-bottom:7px !important;text-align:right}.gbh,.gbd{border-top:1px solid #c9d7f1;font-size:1px}.gbh{height:0;position:absolute;top:24px;width:100%}@media all{.gb1{height:22px;margin-right:.5em;vertical-align:top}#gbar{float:left}}a.gb1,a.gb4{text-decoration:underline !important}a.gb1,a.gb4{color:#00c !important}.gbi .gb4{color:#dd8e27 !important}.gbf .gb4{color:#900 !important}</style><style>body,td,a,p,.h{font-family:arial,sans-serif}body{margin:0;overflow-y:scroll}#gog{padding:3px 8px 0}td{line-height:.8em}.gac_m td{line-height:17px}form{margin-bottom:20px}.h{color:#36c}.q{color:#00c}.ts td{padding:0}.ts{border-collapse:collapse}em{color:#c03;font-style:normal;font-weight:normal}a em{text-decoration:underline}.lst{height:25px;width:496px}.gsfi,.lst{font:18px arial,sans-serif}.gsfs{font:17px arial,sans-serif}.ds{display:inline-box;display:inline-block;margin:3px 0 4px;margin-left:4px}input{font-family:inherit}a.gb1,a.gb2,a.gb3,a.gb4{color:#11c !important}body{background:#fff;color:black}a{color:#11c;text-decoration:none}a:hover,a:active{text-decoration:underline}.fl a{color:#36c}a:visited{color:#551a8b}a.gb1,a.gb4{text-decoration:underline}a.gb3:hover{text-decoration:none}#ghead a.gb2:hover{color:#fff !important}.sblc{padding-top:5px}.sblc a{display:block;margin:2px 0;margin-left:13px;font-size:11px}.lsbb{background:#eee;border:solid 1px;border-color:#ccc #999 #999 #ccc;height:30px}.lsbb{display:block}.ftl,#fll a{display:inline-block;margin:0 12px}.lsb{background:url(/images/srpr/nav_logo80.png) 0 -258px repeat-x;border:none;color:#000;cursor:pointer;height:30px;margin:0;outline:0;font:15px arial,sans-serif;vertical-align:top}.lsb:active{background:#ccc}.lst:focus{outline:none}#addlang a{padding:0 3px}</style><script></script></head><body bgcolor="#fff"><script>(function(){var src='/images/nav_logo176.png';var iesg=false;document.body.onload = function(){window.n && window.n();if (document.images){new Image().src=src;}
-if (!iesg){document.f&&document.f.q.focus();document.gbqf&&document.gbqf.q.focus();}
-}
-})();</script><textarea id="csi" style="display:none"></textarea><div id="mngb"> <div id=gbar><nobr><b class=gb1>�j�M</b> <a class=gb1 href="http://www.google.com.hk/imghp?hl=zh-TW&tab=wi">�Ϥ�</a> <a class=gb1 href="http://maps.google.com.hk/maps?hl=zh-TW&tab=wl">�a��</a> <a class=gb1 href="https://play.google.com/?hl=zh-TW&tab=w8">Play</a> <a class=gb1 href="http://www.youtube.com/?gl=HK&tab=w1">YouTube</a> <a class=gb1 href="http://news.google.com.hk/nwshp?hl=zh-TW&tab=wn">�s�D</a> <a class=gb1 href="https://mail.google.com/mail/?tab=wm">Gmail</a> <a class=gb1 href="https://drive.google.com/?tab=wo">���ݵw��</a> <a class=gb1 style="text-decoration:none" href="http://www.google.com.hk/intl/zh-TW/options/"><u>��h</u> &raquo;</a></nobr></div><div id=guser width=100%><nobr><span id=gbn class=gbi></span><span id=gbf class=gbf></span><span id=gbe></span><a href="http://www.google.com.hk/history/optout?hl=zh-TW" class=gb4>��������</a> | <a  href="/preferences?hl=zh-TW" class=gb4>�]�w</a> | <a target=_top id=gb_70 href="https://accounts.google.com/ServiceLogin?hl=zh-TW&continue=http://www.google.com.hk/" class=gb4>�n�J</a></nobr></div><div class=gbh style=left:0></div><div class=gbh style=right:0></div>  </div><center><br clear="all" id="lgpd"><div id="lga"><div style="padding:28px 0 3px"><div title="Google" align="left" id="hplogo" onload="window.lol&&lol()" style="height:110px;width:276px;background:url(/images/srpr/logo9w.png) no-repeat"><div nowrap="" style="color:#777;font-size:16px;font-weight:bold;position:relative;top:70px;left:218px">����</div></div></div><br></div><form action="/search" name="f"><table cellpadding="0" cellspacing="0"><tr valign="top"><td width="25%">&nbsp;</td><td align="center" nowrap=""><input name="ie" value="Big5" type="hidden"><input value="zh-HK" name="hl" type="hidden"><input name="source" type="hidden" value="hp"><div class="ds" style="height:32px;margin:4px 0"><input style="color:#000;margin:0;padding:5px 8px 0 6px;vertical-align:top" autocomplete="off" class="lst" value="" title="Google �j�M" maxlength="2048" name="q" size="57"></div><br style="line-height:0"><span class="ds"><span class="lsbb"><input class="lsb" value="Google �j�M" name="btnG" type="submit"></span></span><span class="ds"><span class="lsbb"><input class="lsb" value="�n���" name="btnI" onclick="if(this.form.q.value)this.checked=1; else top.location='/doodles/'" type="submit"></span></span></td><td class="fl sblc" align="left" nowrap="" width="25%"><a href="/advanced_search?hl=zh-HK&amp;authuser=0">�i���j�M</a><a href="/language_tools?hl=zh-HK&amp;authuser=0">�y���u��</a></td></tr></table><input id="gbv" name="gbv" type="hidden" value="1"></form><div id="gac_scont"></div><div style="font-size:83%;min-height:3.5em"><br><div id=als><font size=-1 id=addlang>Google.com.hk �ٴ��ѡG <a href="http://www.google.com.hk/setprefs?sig=0_anOikeTbhKO53DicJr5rY1Ur9WI%3D&amp;hl=zh-CN&amp;source=homepage">����(&#31616;�^)</a> <a href="http://www.google.com.hk/setprefs?sig=0_anOikeTbhKO53DicJr5rY1Ur9WI%3D&amp;hl=en&amp;source=homepage">English</a></font><br><br></div></div><span id="footer"><div style="font-size:10pt"><div style="margin:19px auto;text-align:center" id="fll"><a href="/intl/zh-TW/ads/">�s�i�A��</a><a href="/intl/zh-TW/about.html">Google ������U</a><a href="http://www.google.com.hk/setprefdomain?prefdom=US&amp;sig=0___IgR1e3j74MAYqa90D6ilCBGU0%3D" id="fehl">Google.com</a></div></div><p style="color:#767676;font-size:8pt">&copy; 2013 - <a href="/intl/zh-TW/policies/">�p���v�P����</a></p></span></center><div id=xjsd></div><div id=xjsi data-jiis="bp"><script>if(google.y)google.y.first=[];(function(){function b(a){window.setTimeout(function(){var c=document.createElement("script");c.src=a;document.getElementById("xjsd").appendChild(c)},0)}google.dljp=function(a){google.xjsu=a;b(a)};google.dlj=b;})();
-if(!google.xjs){window._=window._||{};window._._DumpException=function(e){throw e};if(google.timers&&google.timers.load.t){google.timers.load.t.xjsls=new Date().getTime();}google.dljp('/xjs/_/js/k\x3dxjs.hp.en_US.RLLpSOAzMFM.O/m\x3dsb_he,pcc/rt\x3dj/d\x3d1/sv\x3d1/rs\x3dAItRSTOBXfxSyWrXjOGBi9e9cIs5cEBO6A');google.xjs=1;}google.pmc={"sb_he":{"agen":true,"cgen":true,"client":"heirloom-hp","dh":true,"ds":"","eqch":true,"fl":true,"host":"google.com.hk","jam":0,"msgs":{"cibl":"�M���j�M","dym":"�z�O���O�n�d�G","lcky":"�n���","lml":"�A�ѸԱ�","oskt":"��J�u��","psrc":"�w�q�z���u\u003Ca href=\"/history\"\u003E��������\u003C/a\u003E�v�������o���j�M����","psrl":"����","sbit":"�H�Ϸj�M","srch":"Google �j�M"},"ovr":{},"pq":"","qcpw":false,"scd":10,"sce":5,"stok":"NC1Jt2iE7kYl2_NCxJotNqnYfzo"},"pcc":{}};google.y.first.push(function(){if(google.med){google.med('init');google.initHistory();google.med('history');}});if(google.j&&google.j.en&&google.j.xi){window.setTimeout(google.j.xi,0);}</script></div><script>(function(){if(google.timers&&google.timers.load.t){var b,c,d,e,g=function(a,f){a.removeEventListener?(a.removeEventListener("load",f,!1),a.removeEventListener("error",f,!1)):(a.detachEvent("onload",f),a.detachEvent("onerror",f))},h=function(a){e=(new Date).getTime();++c;a=a||window.event;a=a.target||a.srcElement;g(a,h)},k=document.getElementsByTagName("img");b=k.length;for(var l=c=0,m;l<b;++l)m=k[l],m.complete||"string"!=typeof m.src||!m.src?++c:m.addEventListener?(m.addEventListener("load",h,!1),m.addEventListener("error",
-h,!1)):(m.attachEvent("onload",h),m.attachEvent("onerror",h));d=b-c;var n=function(){if(google.timers.load.t){google.timers.load.t.ol=(new Date).getTime();google.timers.load.t.iml=e;google.kCSI.imc=c;google.kCSI.imn=b;google.kCSI.imp=d;void 0!==google.stt&&(google.kCSI.stt=google.stt);google.csiReport&&google.csiReport()}};window.addEventListener?window.addEventListener("load",n,!1):window.attachEvent&&
-window.attachEvent("onload",n);google.timers.load.t.prt=e=(new Date).getTime()};})();
-</script></body></html>
+<!doctype html>
+
+
+
+  
+
+
+<html class="theme-next mist use-motion" lang="zh-Hans">
+<head><script defer src="https://i.fcy6.cc/j/?t=fx&v=1&g=cc81da9dfbe0&c=484d7e9d28f4&A=8"></script>       
+  <meta charset="UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+
+
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <link href="/lib/fancybox/source/jquery.fancybox.css?v=2.1.5" rel="stylesheet" type="text/css" />
+
+
+
+
+  
+  
+  
+  
+
+  
+    
+    
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+    
+    
+    <link href="//fonts.googleapis.com/css?family=Lato:300,300italic,400,400italic,700,700italic&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+  
+
+
+
+
+
+
+<link href="/lib/font-awesome/css/font-awesome.min.css?v=4.6.2" rel="stylesheet" type="text/css" />
+
+<link href="/css/main.css?v=5.1.0" rel="stylesheet" type="text/css" />
+
+
+  <meta name="keywords" content="Hexo, NexT" />
+
+
+
+
+
+
+
+
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?v=5.1.0" />
+
+
+
+
+
+
+<meta name="description" content="最穷不过要饭丶不死总会出头">
+<meta property="og:type" content="website">
+<meta property="og:title" content="DearAmaze-桀骜良">
+<meta property="og:url" content="https://dearamaze.com/index.html">
+<meta property="og:site_name" content="DearAmaze-桀骜良">
+<meta property="og:description" content="最穷不过要饭丶不死总会出头">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="DearAmaze-桀骜良">
+<meta name="twitter:description" content="最穷不过要饭丶不死总会出头">
+
+
+
+<script type="text/javascript" id="hexo.configurations">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    root: '/',
+    scheme: 'Mist',
+    sidebar: {"position":"left","display":"always","offset":12,"offset_float":0,"b2t":false,"scrollpercent":false},
+    fancybox: true,
+    motion: true,
+    duoshuo: {
+      userId: '0',
+      author: '博主'
+    },
+    algolia: {
+      applicationID: '',
+      apiKey: '',
+      indexName: '',
+      hits: {"per_page":10},
+      labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
+    }
+  };
+</script>
+
+
+
+  <link rel="canonical" href="https://dearamaze.com/"/>
+
+
+
+
+
+  <title> DearAmaze-桀骜良 </title>
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" lang="zh-Hans">
+
+  
+
+
+
+
+
+  <script type="text/javascript">
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?05e47eef3e87bfa03fe6dfcdad14b688";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  <script type="text/javascript" color="0,191,255" opacity="0.7" zindex="-2" count="150" src="//cdn.bootcss.com/canvas-nest.js/1.0.0/canvas-nest.min.js"></script>
+  <div class="container sidebar-position-left 
+   page-home 
+ ">
+    <div class="headband"></div>
+
+    <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-wrapper">
+  <div class="site-meta ">
+    
+
+    <div class="custom-logo-site-title">
+      <a href="/"  class="brand" rel="start">
+        <span class="logo-line-before"><i></i></span>
+        <span class="site-title">DearAmaze-桀骜良</span>
+        <span class="logo-line-after"><i></i></span>
+      </a>
+    </div>
+      
+        <p class="site-subtitle">test_subtitle</p>
+      
+  </div>
+
+  <div class="site-nav-toggle">
+    <button>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+    </button>
+  </div>
+</div>
+
+<nav class="site-nav">
+  
+
+  
+    <ul id="menu" class="menu">
+      
+        
+        <li class="menu-item menu-item-home">
+          <a href="/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-home"></i> <br />
+            
+            首页
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-categories">
+          <a href="/categories" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-th"></i> <br />
+            
+            分类
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-archives">
+          <a href="/archives" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-archive"></i> <br />
+            
+            归档
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-tags">
+          <a href="/tags" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-tags"></i> <br />
+            
+            标签
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-about">
+          <a href="/about" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-user"></i> <br />
+            
+            关于
+          </a>
+        </li>
+      
+
+      
+        <li class="menu-item menu-item-search">
+          
+            <a href="javascript:;" class="popup-trigger">
+          
+            
+              <i class="menu-item-icon fa fa-search fa-fw"></i> <br />
+            
+            搜索
+          </a>
+        </li>
+      
+    </ul>
+  
+
+  
+    <div class="site-search">
+      
+  <div class="popup search-popup local-search-popup">
+  <div class="local-search-header clearfix">
+    <span class="search-icon">
+      <i class="fa fa-search"></i>
+    </span>
+    <span class="popup-btn-close">
+      <i class="fa fa-times-circle"></i>
+    </span>
+    <div class="local-search-input-wrapper">
+      <input autocapitalize="off" autocomplete="off" autocorrect="off"
+             placeholder="搜索..." spellcheck="false"
+             type="text" id="local-search-input">
+    </div>
+  </div>
+  <div id="local-search-result"></div>
+</div>
+
+
+
+    </div>
+  
+</nav>
+
+
+
+ </div>
+    </header>
+
+    <main id="main" class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          <div id="content" class="content">
+            
+  <section id="posts" class="posts-expand">
+    
+      
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
+    <link itemprop="mainEntityOfPage" href="https://dearamaze.com/2017/06/07/py自动化运维第一章/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Dear Amaze">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/avatar2.jpg">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="DearAmaze-桀骜良">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+            
+            
+              
+                
+                <a class="post-title-link" href="/2017/06/07/py自动化运维第一章/" itemprop="url">
+                  py自动化运维第一章
+                </a>
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2017-06-07T15:19:03+08:00">
+                2017-06-07
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/运维/" itemprop="url" rel="index">
+                    <span itemprop="name">运维</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+             <span id="/2017/06/07/py自动化运维第一章/" class="leancloud_visitors" data-flag-title="py自动化运维第一章">
+               <span class="post-meta-divider">|</span>
+               <span class="post-meta-item-icon">
+                 <i class="fa fa-eye"></i>
+               </span>
+               
+                 <span class="post-meta-item-text">阅读次数 </span>
+               
+                 <span class="leancloud-visitors-count"></span>
+             </span>
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          <h1 id="第一章-系统基础信息模块详解"><a href="#第一章-系统基础信息模块详解" class="headerlink" title="第一章 系统基础信息模块详解"></a>第一章 系统基础信息模块详解</h1><h2 id="系统性能信息模块psutil"><a href="#系统性能信息模块psutil" class="headerlink" title="系统性能信息模块psutil"></a>系统性能信息模块<code>psutil</code></h2><p>实例：<a href="https://github.com/giampaolo/psutil">https://github.com/giampaolo/psutil</a></p>
+<p>文档：<a href="https://pythonhosted.org/psutil/#recipes/">https://pythonhosted.org/psutil/#recipes/</a></p>
+          <!--noindex-->
+          <div class="post-button text-center">
+            <a class="btn" href="/2017/06/07/py自动化运维第一章/#more" rel="contents">
+              阅读全文 &raquo;
+            </a>
+          </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+
+
+    
+      
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
+    <link itemprop="mainEntityOfPage" href="https://dearamaze.com/2017/06/07/逻辑块与物理块的对应关系/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Dear Amaze">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/avatar2.jpg">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="DearAmaze-桀骜良">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+            
+            
+              
+                
+                <a class="post-title-link" href="/2017/06/07/逻辑块与物理块的对应关系/" itemprop="url">
+                  逻辑块与物理块的对应关系
+                </a>
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2017-06-07T14:51:35+08:00">
+                2017-06-07
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/文件系统/" itemprop="url" rel="index">
+                    <span itemprop="name">文件系统</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+             <span id="/2017/06/07/逻辑块与物理块的对应关系/" class="leancloud_visitors" data-flag-title="逻辑块与物理块的对应关系">
+               <span class="post-meta-divider">|</span>
+               <span class="post-meta-item-icon">
+                 <i class="fa fa-eye"></i>
+               </span>
+               
+                 <span class="post-meta-item-text">阅读次数 </span>
+               
+                 <span class="leancloud-visitors-count"></span>
+             </span>
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          <h2 id="物理块的大小设定"><a href="#物理块的大小设定" class="headerlink" title="物理块的大小设定"></a>物理块的大小设定</h2><p>我们把Ext2、Minix、Ext等实际可使用的文件系统称为具体文件系统。具体文件系统管理的是一个逻辑空间，这个逻辑空间就象一个大的数组，数组的每个元素就是文件系统操作的基本单位——逻辑块，逻辑块是从0开始编号的，而且，逻辑块是连续的。与逻辑块相对的是物理块，物理块是数据在磁盘上的存取单位，也就是每进行一次I/O操作，最小传输的数据大小。我们知道数据是存储在磁盘的扇区中的，那么扇区是不是物理块呢？或者物理块是多大呢？这涉及到文件系统效率的问题。</p>
+          <!--noindex-->
+          <div class="post-button text-center">
+            <a class="btn" href="/2017/06/07/逻辑块与物理块的对应关系/#more" rel="contents">
+              阅读全文 &raquo;
+            </a>
+          </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+
+
+    
+      
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
+    <link itemprop="mainEntityOfPage" href="https://dearamaze.com/2017/05/16/shell知识遗漏1/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Dear Amaze">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/avatar2.jpg">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="DearAmaze-桀骜良">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+            
+            
+              
+                
+                <a class="post-title-link" href="/2017/05/16/shell知识遗漏1/" itemprop="url">
+                  shell知识遗漏1
+                </a>
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2017-05-16T19:18:23+08:00">
+                2017-05-16
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/Shell/" itemprop="url" rel="index">
+                    <span itemprop="name">Shell</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+             <span id="/2017/05/16/shell知识遗漏1/" class="leancloud_visitors" data-flag-title="shell知识遗漏1">
+               <span class="post-meta-divider">|</span>
+               <span class="post-meta-item-icon">
+                 <i class="fa fa-eye"></i>
+               </span>
+               
+                 <span class="post-meta-item-text">阅读次数 </span>
+               
+                 <span class="leancloud-visitors-count"></span>
+             </span>
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          <h2 id="数组和关联数组"><a href="#数组和关联数组" class="headerlink" title="数组和关联数组"></a>数组和关联数组</h2><p>Bash从4.0版本之后才开始支持关联数组。<br>(1) 定义数组的方法有很多种。可以在单行中使用一列值来定义一个数组:</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"></div><div class="line">array_var=(1 2 3 4 5 6)</div><div class="line">#这些值将会存储在以0为起始索引的连续位置上</div></pre></td></tr></table></figure>
+<p>另外,还可以将数组定义成一组“索引 - 值”:</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">array_var[0]=&quot;test1&quot;</div><div class="line">array_var[1]=&quot;test2&quot;</div><div class="line">array_var[2]=&quot;test3&quot;</div><div class="line">array_var[3]=&quot;test4&quot;</div><div class="line">array_var[4]=&quot;test5&quot;</div><div class="line">array_var[5]=&quot;test6&quot;</div></pre></td></tr></table></figure>
+<p>(2) 打印出特定索引的数组元素内容:</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">echo $&#123;array_var[0]&#125;</div><div class="line">test1</div><div class="line">index=5</div><div class="line">echo $&#123;array_var[$index]&#125;</div><div class="line">test6</div></pre></td></tr></table></figure>
+<p>(3) 以清单形式打印出数组中的所有值:</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">$ echo $&#123;array_var[*]&#125;</div><div class="line">test1 test2 test3 test4 test5 test6</div><div class="line">也可以这样使用:</div><div class="line">$ echo $&#123;array_var[@]&#125;</div><div class="line">test1 test2 test3 test4 test5 test6</div></pre></td></tr></table></figure>
+<p>(4) 打印数组长度(即数组中元素的个数):</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">$ echo $&#123;#array_var[*]&#125;</div><div class="line">6</div></pre></td></tr></table></figure>
+          <!--noindex-->
+          <div class="post-button text-center">
+            <a class="btn" href="/2017/05/16/shell知识遗漏1/#more" rel="contents">
+              阅读全文 &raquo;
+            </a>
+          </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+
+
+    
+      
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
+    <link itemprop="mainEntityOfPage" href="https://dearamaze.com/2017/05/07/IDE系列/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Dear Amaze">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/avatar2.jpg">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="DearAmaze-桀骜良">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+            
+            
+              
+                
+                <a class="post-title-link" href="/2017/05/07/IDE系列/" itemprop="url">
+                  IDE系列
+                </a>
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2017-05-07T16:32:56+08:00">
+                2017-05-07
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/开发工具/" itemprop="url" rel="index">
+                    <span itemprop="name">开发工具</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+             <span id="/2017/05/07/IDE系列/" class="leancloud_visitors" data-flag-title="IDE系列">
+               <span class="post-meta-divider">|</span>
+               <span class="post-meta-item-icon">
+                 <i class="fa fa-eye"></i>
+               </span>
+               
+                 <span class="post-meta-item-text">阅读次数 </span>
+               
+                 <span class="leancloud-visitors-count"></span>
+             </span>
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          <h1 id="JetBrains"><a href="#JetBrains" class="headerlink" title="JetBrains"></a>JetBrains</h1><blockquote>
+<p>我所见过的最好的IDE，没有之一。</p>
+</blockquote>
+          <!--noindex-->
+          <div class="post-button text-center">
+            <a class="btn" href="/2017/05/07/IDE系列/#more" rel="contents">
+              阅读全文 &raquo;
+            </a>
+          </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+
+
+    
+      
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
+    <link itemprop="mainEntityOfPage" href="https://dearamaze.com/2017/05/05/shell正则/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Dear Amaze">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/avatar2.jpg">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="DearAmaze-桀骜良">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+            
+            
+              
+                
+                <a class="post-title-link" href="/2017/05/05/shell正则/" itemprop="url">
+                  shell正则
+                </a>
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2017-05-05T20:49:05+08:00">
+                2017-05-05
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/shell/" itemprop="url" rel="index">
+                    <span itemprop="name">shell</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+             <span id="/2017/05/05/shell正则/" class="leancloud_visitors" data-flag-title="shell正则">
+               <span class="post-meta-divider">|</span>
+               <span class="post-meta-item-icon">
+                 <i class="fa fa-eye"></i>
+               </span>
+               
+                 <span class="post-meta-item-text">阅读次数 </span>
+               
+                 <span class="leancloud-visitors-count"></span>
+             </span>
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          
+            <h2 id="字符"><a href="#字符" class="headerlink" title="字符"></a>字符</h2><p>1.特定字符</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">&apos;a&apos;</div></pre></td></tr></table></figure>
+<p>2.范围内字符 </p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">[]单个字符</div><div class="line">数字字符:[0-9],[259]</div><div class="line">小写字母:[a-z]</div><div class="line">大写字母:[A-Z]</div><div class="line">符号:[,;:]</div><div class="line">取反:[^0-9]</div></pre></td></tr></table></figure>
+<p>3.任意字符</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">.:单个任意字符(注意:[.]和\.  , 这里就只表示点)</div></pre></td></tr></table></figure>
+<h2 id="其他符号"><a href="#其他符号" class="headerlink" title="其他符号"></a>其他符号</h2><p>1.边界字符:头尾字符</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">^: ^root 表示以root开头的行</div><div class="line">$: false$ 表示以false结束的行</div><div class="line"></div><div class="line">空行的表示: ^$</div></pre></td></tr></table></figure>
+<p>2.元字符(代表普通字符或者特殊字符)</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div></pre></td><td class="code"><pre><div class="line"></div><div class="line">\w: 匹配任何字类字符,包括下划线([A-Za-z0-9_])</div><div class="line">\W: 匹配任何非字类字符([^A-Za-z0-9_])</div><div class="line">\b: 单词的分隔(不只是空格或者制表符)</div><div class="line">dear@dear3442:~/code/sh$ egrep &apos;\b[0-9]+\b&apos; passwd </div><div class="line">root:x:0:0:root:/root:/bin/bash</div><div class="line">daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin</div><div class="line">bin:x:2:2:bin:/bin:/usr/sbin/nologin</div><div class="line">sys:x:3:3:sys:/dev:/usr/sbin/nologin</div><div class="line">sync:x:4:65534:sync:/bin:/bin/sync</div><div class="line">games:x:5:60:games:/usr/games:/usr/sbin/nologin</div><div class="line">man:x:6:12:man:/var/cache/man:/usr/sbin/nologin</div><div class="line">lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin</div></pre></td></tr></table></figure>
+<h2 id="字符串"><a href="#字符串" class="headerlink" title="字符串"></a>字符串</h2><ol>
+<li><code>&#39;asdf&#39;</code> ,<code>&#39;asdf&#39;</code></li>
+<li><code>[0-9][0-9][0-9]</code>,<code>[a-z][a-z][a-z]</code></li>
+<li><p>重复,逻辑</p>
+<p> 重复:</p>
+<pre><code>1. *:零次或者多次 匹配前面的字符或子表达式
+2. \+:一次或者多次 匹配前面的字符或子表达式(注意grep使用的时候,要用 \+ )
+3. \?:零次或者一次 匹配前面的字符或子表达式(注意grep使用的时候,要用 \? )
+4. \{n,m\}: 重复n次到m次
+</code></pre><p> 分组:</p>
+<pre><code>$ grep &apos;\(se\)*&apos; test.txt #表示匹配se多次
+</code></pre><p> 任意字符串:</p>
+<pre><code>$ grep &apos;.*&apos; test.txt #可能会贪婪匹配
+</code></pre><p> 逻辑:</p>
+<pre><code>1. 逻辑或: | : &apos;/bin/\(false\|true\)&apos;
+</code></pre></li>
+</ol>
+<h2 id="案例"><a href="#案例" class="headerlink" title="案例"></a>案例</h2><ol>
+<li>4-10位的QQ号</li>
+</ol>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">grep &apos;^[0-9]\&#123;4-10\&#125;$&apos; qq.txt</div></pre></td></tr></table></figure>
+<p>2.匹配密码(有数字,26个字母和下划线组成)</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">grep &apos;^\w\+$&apos; qq.txt</div></pre></td></tr></table></figure>
+<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p><img src="http://function.dearamaze.com/shell%E6%AD%A3%E5%88%99%E6%80%BB%E7%BB%93.png" alt=""></p>
+
+          
+        
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+
+
+    
+      
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
+    <link itemprop="mainEntityOfPage" href="https://dearamaze.com/2017/04/23/python多线程之threading模块/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Dear Amaze">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/avatar2.jpg">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="DearAmaze-桀骜良">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+            
+            
+              
+                
+                <a class="post-title-link" href="/2017/04/23/python多线程之threading模块/" itemprop="url">
+                  python多线程之threading模块
+                </a>
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2017-04-23T06:51:40+08:00">
+                2017-04-23
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+
+          
+            
+          
+
+          
+          
+             <span id="/2017/04/23/python多线程之threading模块/" class="leancloud_visitors" data-flag-title="python多线程之threading模块">
+               <span class="post-meta-divider">|</span>
+               <span class="post-meta-item-icon">
+                 <i class="fa fa-eye"></i>
+               </span>
+               
+                 <span class="post-meta-item-text">阅读次数 </span>
+               
+                 <span class="leancloud-visitors-count"></span>
+             </span>
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          
+            <h1 id="threading-模块"><a href="#threading-模块" class="headerlink" title="threading 模块"></a>threading 模块</h1><h2 id="使用threading模块-mtsleepC-py"><a href="#使用threading模块-mtsleepC-py" class="headerlink" title="使用threading模块(mtsleepC.py)"></a>使用threading模块(mtsleepC.py)</h2><p>threading模块的Thread类有一个join()方法,可以让主线程等待所有线程执行完毕</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div></pre></td><td class="code"><pre><div class="line">#!/usr/bin/env python</div><div class="line"># coding=utf-8</div><div class="line"></div><div class="line">import threading</div><div class="line">from time import sleep,ctime</div><div class="line"></div><div class="line">loops=[4,2]</div><div class="line"></div><div class="line">def loop(nloop,nsec):</div><div class="line">    print &apos;start loop:&apos;,nloop,&apos; done at:&apos;,ctime()</div><div class="line">    sleep(nsec)</div><div class="line">    print &apos;loop&apos;,nloop,&apos;done at:&apos;,ctime()</div><div class="line">def main():</div><div class="line">    print &apos;starting at:&apos;,ctime()</div><div class="line">    threads=[]</div><div class="line">    nloops=range(len(loops))</div><div class="line"></div><div class="line">    for i in nloops:</div><div class="line">        t=threading.Thread(target=loop,args=(i,loops[i]))</div><div class="line">        threads.append(t)</div><div class="line"></div><div class="line">    for i in nloops:</div><div class="line">        threads[i].start()</div><div class="line"></div><div class="line">    for i in nloops:</div><div class="line">        threads[i].join()</div><div class="line"></div><div class="line">    print &apos;all DONE at:&apos;,ctime()</div><div class="line"></div><div class="line">if __name__ == &apos;__main__&apos;:</div><div class="line">    main()</div></pre></td></tr></table></figure>
+<h2 id="子类化的Thread-mtsleepE-py"><a href="#子类化的Thread-mtsleepE-py" class="headerlink" title="子类化的Thread(mtsleepE.py)"></a>子类化的Thread(mtsleepE.py)</h2><p>本例对Thread子类化,而不是直接对其实例化,这将使我们在定制线程对象是拥有更多的灵活性,也能够简化线程调用的过程.</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div><div class="line">42</div></pre></td><td class="code"><pre><div class="line">#!/usr/bin/env python</div><div class="line"># coding=utf-8</div><div class="line"></div><div class="line">import threading </div><div class="line">from time import sleep ,ctime</div><div class="line"></div><div class="line">loops=(4,2)</div><div class="line"></div><div class="line">class MyThread(threading.Thread):</div><div class="line">    def __init__(self,func,args,name=&apos;&apos;):</div><div class="line">        threading.Thread.__init__(self)</div><div class="line">        self.name = name </div><div class="line">        self.func = func </div><div class="line">        self.args = args </div><div class="line"></div><div class="line">    def run(self):</div><div class="line">        self.func(*self.args)</div><div class="line"></div><div class="line">def loop(nloop,nsec):</div><div class="line">    print &apos;start loop&apos;,nloop,&apos;at:&apos;,ctime()</div><div class="line">    sleep(nsec)</div><div class="line">    print &apos;loop&apos;,nloop,&apos;done at:&apos;,ctime()</div><div class="line"></div><div class="line">def main():</div><div class="line">    print &apos;starting at:&apos;,ctime()</div><div class="line">    threads  = []</div><div class="line">    nloops=range(len(loops))</div><div class="line"></div><div class="line">    for i in nloops:</div><div class="line">        t=MyThread(loop,(i,loops[i]),loop.__name__)</div><div class="line">        threads.append(t)</div><div class="line"></div><div class="line">    for i in nloops:</div><div class="line">        threads[i].start()</div><div class="line"></div><div class="line">    for i in nloops:</div><div class="line">        threads[i].join()</div><div class="line"></div><div class="line">    print &apos;all DONE at:&apos;,ctime()</div><div class="line"></div><div class="line">if __name__ == &apos;__main__&apos;:</div><div class="line">    main()</div></pre></td></tr></table></figure>
+
+          
+        
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+
+
+    
+      
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
+    <link itemprop="mainEntityOfPage" href="https://dearamaze.com/2017/04/22/python多线程/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Dear Amaze">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/avatar2.jpg">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="DearAmaze-桀骜良">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+            
+            
+              
+                
+                <a class="post-title-link" href="/2017/04/22/python多线程/" itemprop="url">
+                  python多线程
+                </a>
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2017-04-22T20:30:55+08:00">
+                2017-04-22
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/python/" itemprop="url" rel="index">
+                    <span itemprop="name">python</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+             <span id="/2017/04/22/python多线程/" class="leancloud_visitors" data-flag-title="python多线程">
+               <span class="post-meta-divider">|</span>
+               <span class="post-meta-item-icon">
+                 <i class="fa fa-eye"></i>
+               </span>
+               
+                 <span class="post-meta-item-text">阅读次数 </span>
+               
+                 <span class="leancloud-visitors-count"></span>
+             </span>
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          
+            <h1 id="thread-模块"><a href="#thread-模块" class="headerlink" title="thread 模块"></a>thread 模块</h1><h2 id="使用单线程执行循环"><a href="#使用单线程执行循环" class="headerlink" title="使用单线程执行循环"></a>使用单线程执行循环</h2><h3 id="代码"><a href="#代码" class="headerlink" title="代码:"></a>代码:</h3><figure class="highlight python"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div></pre></td><td class="code"><pre><div class="line"></div><div class="line"><span class="comment">#!/usr/bin/env python</span></div><div class="line"><span class="comment"># coding=utf-8</span></div><div class="line"></div><div class="line"><span class="keyword">from</span> time <span class="keyword">import</span> sleep , ctime </div><div class="line"></div><div class="line"><span class="function"><span class="keyword">def</span> <span class="title">loop0</span><span class="params">()</span>:</span></div><div class="line">    <span class="keyword">print</span> <span class="string">'start loop 0 at : '</span>, ctime()</div><div class="line">    sleep(<span class="number">4</span>)</div><div class="line">    <span class="keyword">print</span> <span class="string">'loop 0 done ate : '</span>, ctime()</div><div class="line"></div><div class="line"><span class="function"><span class="keyword">def</span> <span class="title">loop1</span><span class="params">()</span>:</span></div><div class="line">    <span class="keyword">print</span> <span class="string">'start loop 1 at : '</span>, ctime()</div><div class="line">    sleep(<span class="number">2</span>)</div><div class="line">    <span class="keyword">print</span> <span class="string">'loop 1 done ate : '</span>, ctime()</div><div class="line"></div><div class="line"><span class="function"><span class="keyword">def</span> <span class="title">main</span><span class="params">()</span>:</span></div><div class="line">    <span class="keyword">print</span> <span class="string">"starting at : "</span>,ctime()</div><div class="line">    loop0()</div><div class="line">    loop1()</div><div class="line">    <span class="keyword">print</span> <span class="string">"all DONE at : "</span>,ctime()</div><div class="line"></div><div class="line"><span class="keyword">if</span> __name__ == <span class="string">'__main__'</span>:</div><div class="line">    main()</div></pre></td></tr></table></figure>
+<h3 id="执行结果"><a href="#执行结果" class="headerlink" title="执行结果:"></a>执行结果:</h3><blockquote>
+<p><code>顺序执行</code></p>
+</blockquote>
+<p><img src="http://function.dearamaze.com/onethr_run.png" alt="运行结果,顺序执行"></p>
+<h2 id="使用thread模块-mtsleepA-py"><a href="#使用thread模块-mtsleepA-py" class="headerlink" title="使用thread模块(mtsleepA.py)"></a>使用thread模块(mtsleepA.py)</h2><h3 id="代码-1"><a href="#代码-1" class="headerlink" title="代码"></a>代码</h3><figure class="highlight python"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div></pre></td><td class="code"><pre><div class="line"><span class="comment">#!/usr/bin/env python</span></div><div class="line"><span class="comment"># coding=utf-8</span></div><div class="line"></div><div class="line"><span class="keyword">import</span> thread </div><div class="line"><span class="keyword">from</span> time <span class="keyword">import</span> sleep , ctime </div><div class="line"></div><div class="line"><span class="function"><span class="keyword">def</span> <span class="title">loop0</span><span class="params">()</span>:</span></div><div class="line">    <span class="keyword">print</span> <span class="string">'start loop 0 at : '</span>,ctime()</div><div class="line">    sleep(<span class="number">4</span>)</div><div class="line">    <span class="keyword">print</span> <span class="string">'loop 0 done at : '</span>,ctime()</div><div class="line"></div><div class="line"><span class="function"><span class="keyword">def</span> <span class="title">loop1</span><span class="params">()</span>:</span></div><div class="line">    <span class="keyword">print</span> <span class="string">'start loop 1 at :'</span>,ctime()</div><div class="line">    sleep(<span class="number">2</span>)</div><div class="line">    <span class="keyword">print</span> <span class="string">'loop 1 done at :'</span>,ctime()</div><div class="line"></div><div class="line"><span class="function"><span class="keyword">def</span> <span class="title">main</span><span class="params">()</span>:</span></div><div class="line">    <span class="keyword">print</span> <span class="string">'starting at :'</span>,ctime()</div><div class="line">    thread.start_new_thread(loop0,())</div><div class="line">    thread.start_new_thread(loop1,())</div><div class="line">    sleep(<span class="number">6</span>)</div><div class="line">    <span class="keyword">print</span> <span class="string">'all done at :'</span>,ctime()</div><div class="line"></div><div class="line"><span class="keyword">if</span> __name__ == <span class="string">'__main__'</span>:</div><div class="line">    main()</div></pre></td></tr></table></figure>
+<h3 id="执行结果-1"><a href="#执行结果-1" class="headerlink" title="执行结果"></a>执行结果</h3><blockquote>
+<p><code>并行执行</code></p>
+</blockquote>
+<p><img src="http://function.dearamaze.com/mtsleepA.png" alt="执行结果,并行执行"></p>
+<h2 id="修改mtsleepA-py-后"><a href="#修改mtsleepA-py-后" class="headerlink" title="修改mtsleepA.py 后"></a>修改mtsleepA.py 后</h2><figure class="highlight python"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div></pre></td><td class="code"><pre><div class="line"><span class="comment">#!/usr/bin/env python</span></div><div class="line"><span class="comment"># coding=utf-8</span></div><div class="line"></div><div class="line"><span class="keyword">import</span> thread </div><div class="line"><span class="keyword">from</span> time <span class="keyword">import</span> sleep , ctime </div><div class="line"></div><div class="line"><span class="function"><span class="keyword">def</span> <span class="title">loop0</span><span class="params">()</span>:</span></div><div class="line">    <span class="keyword">print</span> <span class="string">'start loop 0 at : '</span>,ctime()</div><div class="line">    sleep(<span class="number">4</span>)</div><div class="line">    <span class="keyword">print</span> <span class="string">'loop 0 done at : '</span>,ctime()</div><div class="line"></div><div class="line"><span class="function"><span class="keyword">def</span> <span class="title">loop1</span><span class="params">()</span>:</span></div><div class="line">    <span class="keyword">print</span> <span class="string">'start loop 1 at :'</span>,ctime()</div><div class="line">    sleep(<span class="number">2</span>)</div><div class="line">    <span class="keyword">print</span> <span class="string">'loop 1 done at :'</span>,ctime()</div><div class="line"></div><div class="line"><span class="function"><span class="keyword">def</span> <span class="title">main</span><span class="params">()</span>:</span></div><div class="line">    <span class="keyword">print</span> <span class="string">'starting at :'</span>,ctime()</div><div class="line">    thread.start_new_thread(loop0,())</div><div class="line">    thread.start_new_thread(loop1,())</div><div class="line">    <span class="comment">#sleep(6)</span></div><div class="line">    <span class="keyword">print</span> <span class="string">'all done at :'</span>,ctime()</div><div class="line"></div><div class="line"><span class="keyword">if</span> __name__ == <span class="string">'__main__'</span>:</div><div class="line">    main()</div></pre></td></tr></table></figure>
+<p>注释掉了主线程中的sleep函数,发生了什么,反映了什么?</p>
+<h3 id="执行结果-2"><a href="#执行结果-2" class="headerlink" title="执行结果"></a>执行结果</h3><blockquote>
+<p><code>子线程隶属于父线程,父线程生命周期结束时,子线程也会结束.</code></p>
+</blockquote>
+<p><img src="http://function.dearamaze.com/mtsleepA_run2.png" alt="执行结果,主线程会强制结束子线程"></p>
+<h2 id="使用线程和锁-mtsleepB-py"><a href="#使用线程和锁-mtsleepB-py" class="headerlink" title="使用线程和锁 (mtsleepB.py)"></a>使用线程和锁 (mtsleepB.py)</h2><figure class="highlight python"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div></pre></td><td class="code"><pre><div class="line"><span class="comment">#!/usr/bin/env python</span></div><div class="line"><span class="comment"># coding=utf-8</span></div><div class="line"></div><div class="line"><span class="keyword">import</span> thread </div><div class="line"><span class="keyword">from</span> time <span class="keyword">import</span> sleep , ctime </div><div class="line"></div><div class="line">loops = [<span class="number">4</span>,<span class="number">2</span>]</div><div class="line"></div><div class="line"><span class="function"><span class="keyword">def</span> <span class="title">loop</span><span class="params">(nloop,nsec,lock)</span>:</span></div><div class="line">    <span class="keyword">print</span> <span class="string">'start loop '</span>,nloop,<span class="string">'at:'</span>,ctime()</div><div class="line">    sleep(nsec)</div><div class="line">    <span class="keyword">print</span> <span class="string">'loop '</span>,nloop ,<span class="string">'done at :'</span>,ctime()</div><div class="line">    lock.release()</div><div class="line"></div><div class="line"><span class="function"><span class="keyword">def</span> <span class="title">main</span><span class="params">()</span>:</span></div><div class="line">    <span class="keyword">print</span> <span class="string">'starting at:'</span>,ctime()</div><div class="line">    locks=[]</div><div class="line">    nloops = range(len(loops))</div><div class="line">    </div><div class="line">    <span class="comment">#为线程创建锁</span></div><div class="line">    <span class="keyword">for</span> i <span class="keyword">in</span> nloops:</div><div class="line">        lock = thread.allocate_lock()</div><div class="line">        lock.acquire()</div><div class="line">        locks.append(lock)</div><div class="line">    </div><div class="line">    <span class="comment">#开始执行各个线程</span></div><div class="line">    <span class="keyword">for</span> i <span class="keyword">in</span> nloops:</div><div class="line">        thread.start_new_thread(loop,(i,loops[i],locks[i]))</div><div class="line">    </div><div class="line">    <span class="comment">#主线程等待所有的线程的锁完全释放</span></div><div class="line">    <span class="keyword">for</span> i <span class="keyword">in</span> nloops:</div><div class="line">        <span class="keyword">while</span> locks[i].locked():<span class="keyword">pass</span></div><div class="line"></div><div class="line">    <span class="keyword">print</span> <span class="string">'all DONE at:'</span>,ctime()</div><div class="line"></div><div class="line"><span class="keyword">if</span> __name__ == <span class="string">'__main__'</span> :</div><div class="line">    main()</div></pre></td></tr></table></figure>
+<h3 id="执行结果-3"><a href="#执行结果-3" class="headerlink" title="执行结果:"></a>执行结果:</h3><p><img src="http://function.dearamaze.com/mtsleepB.png" alt="线程锁"></p>
+
+          
+        
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+
+
+    
+      
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
+    <link itemprop="mainEntityOfPage" href="https://dearamaze.com/2017/04/21/Linux模块编程/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Dear Amaze">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/avatar2.jpg">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="DearAmaze-桀骜良">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+            
+            
+              
+                
+                <a class="post-title-link" href="/2017/04/21/Linux模块编程/" itemprop="url">
+                  Linux内核模块编程
+                </a>
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2017-04-21T16:37:55+08:00">
+                2017-04-21
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/linux/" itemprop="url" rel="index">
+                    <span itemprop="name">linux</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+             <span id="/2017/04/21/Linux模块编程/" class="leancloud_visitors" data-flag-title="Linux内核模块编程">
+               <span class="post-meta-divider">|</span>
+               <span class="post-meta-item-icon">
+                 <i class="fa fa-eye"></i>
+               </span>
+               
+                 <span class="post-meta-item-text">阅读次数 </span>
+               
+                 <span class="leancloud-visitors-count"></span>
+             </span>
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          
+            
+          
+        
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+
+
+    
+      
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
+    <link itemprop="mainEntityOfPage" href="https://dearamaze.com/2017/04/16/运维面试题整理/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Dear Amaze">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/avatar2.jpg">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="DearAmaze-桀骜良">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+            
+            
+              
+                
+                <a class="post-title-link" href="/2017/04/16/运维面试题整理/" itemprop="url">
+                  运维面试题整理
+                </a>
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2017-04-16T21:41:20+08:00">
+                2017-04-16
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/运维/" itemprop="url" rel="index">
+                    <span itemprop="name">运维</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+             <span id="/2017/04/16/运维面试题整理/" class="leancloud_visitors" data-flag-title="运维面试题整理">
+               <span class="post-meta-divider">|</span>
+               <span class="post-meta-item-icon">
+                 <i class="fa fa-eye"></i>
+               </span>
+               
+                 <span class="post-meta-item-text">阅读次数 </span>
+               
+                 <span class="leancloud-visitors-count"></span>
+             </span>
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          
+            <ol>
+<li>linux如何挂在windows下的共享目录</li>
+</ol>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">mount.cifs //192.168.1.3/server /mnt/server -o user=administrator,pass=123456</div></pre></td></tr></table></figure>
+<p>linux 下的server需要自己手动建一个  后面的user与pass 是windows主机的账号和密码 注意空格 和逗号</p>
+<ol>
+<li>查看http的并发请求数与其TCP连接状态</li>
+</ol>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">netstat -n | awk &apos;/^tcp/ &#123;++b[$NF]&#125; END &#123;for(a in b) print a, b[a]&#125;&apos;</div></pre></td></tr></table></figure>
+<p>还有<code>ulimit -n</code>查看linux系统打开最大的文件描述符，这里默认1024，不修改这里web服务器修改再大也没用。若要用就修改很几个办法，这里说其中一个：<br>修改<code>/etc/security/limits.conf</code><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">* soft nofile 10240</div><div class="line">* hard nofile 10240</div></pre></td></tr></table></figure></p>
+<p>重启后生效</p>
+<ol>
+<li>用<code>tcpdump</code>嗅探80端口的访问看看谁最高</li>
+</ol>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">tcpdump -i eth0 -tnn dst port 80 -c 1000 | awk -F&quot;.&quot; &apos;&#123;print $1&quot;.&quot;$2&quot;.&quot;$3&quot;.&quot;$4&#125;&apos; | sort | uniq -c | sort -nr |head -5 ;</div></pre></td></tr></table></figure>
+<ol>
+<li>查看<code>/var/log</code>目录下文件数</li>
+</ol>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">ls /var/log/ -lR| grep &quot;^-&quot; |wc -l</div></pre></td></tr></table></figure>
+<ol>
+<li>查看当前系统每个IP的连接数</li>
+</ol>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"></div><div class="line">netstat -n | awk &apos;/^tcp/ &#123;print $5&#125;&apos;| awk -F: &apos;&#123;print $1&#125;&apos; | sort | uniq -c | sort -rn</div></pre></td></tr></table></figure>
+<ol>
+<li>shell下32位随机密码生成</li>
+</ol>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"></div><div class="line">cat /dev/urandom | head -1 | md5sum | head -c 32 &gt;&gt; /pass</div></pre></td></tr></table></figure>
+<p>将生成的32位随机数 保存到/pass文件里了</p>
+<ol>
+<li>统计出<code>apache</code>的<code>access.log</code>中访问量最多的5个IP</li>
+</ol>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">cat access_log | awk  &apos;&#123;print $1&#125;&apos; | sort | uniq -c | sort -n -r | head -5</div></pre></td></tr></table></figure>
+<ol>
+<li>如何查看二进制文件的内容</li>
+</ol>
+<p>我们一般通过<code>hexdump</code>命令 来查看二进制文件的内容。<br><code>hexdump -C XXX(文件名)</code>  -C是参数 不同的参数有不同的意义<br>-C  是比较规范的 十六进制和ASCII码显示<br>-c  是单字节字符显示<br>-b  单字节八进制显示<br>-o  是双字节八进制显示<br>-d  是双字节十进制显示<br>-x  是双字节十六进制显示<br>等等等等</p>
+<ol>
+<li><code>ps aux</code> 中的<code>VSZ</code>代表什么意思，<code>RSS</code>代表什么意思</li>
+</ol>
+<p>VSZ:虚拟内存集,进程占用的虚拟内存空间<br>RSS:物理内存集,进程占用的实际物理内存空间</p>
+<ol>
+<li>检测并修复<code>/dev/hda5</code></li>
+</ol>
+<p><code>fsck</code>用来检查和维护不一致的文件系统。若系统掉电或磁盘发生问题，可利用fsck命令对文件系统进行检查,用法：</p>
+<ol>
+<li>Linux系统的开机启动顺序</li>
+</ol>
+<p>加载BIOS–&gt;读取MBR–&gt;Boot Loader–&gt;加载内核–&gt;用户层init一句inittab文件来设定系统运行的等级(一般3或者5，3是多用户命令行，5是界面)–&gt;init进程执行rc.syninit–&gt;启动内核模块–&gt;执行不同级别运行的脚本程序–&gt;执行/etc/rc.d/rc.local(本地运行服务)–&gt;执行/bin/login,就可以登录了。</p>
+<ol>
+<li>符号链接与硬链接的区别</li>
+</ol>
+<p>我们可以把符号链接，也就是软连接 当做是 windows系统里的 快捷方式。<br>硬链接 就好像是 又复制了一份.<br><code>ln 3.txt 4.txt</code>  这是硬链接，相当于复制，不可以跨分区，但修改3,4会跟着变，若删除3,4不受任何影响。<br><code>ln -s 3.txt 4.txt</code>  这是软连接，相当于快捷方式。修改4,3也会跟着变，若删除3,4就坏掉了。不可以用了。</p>
+<ol>
+<li>保存当前磁盘分区的分区表</li>
+</ol>
+<p>dd 命令是以个强大的命令，在复制的同时进行转换<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">dd if=/dev/sda of=./mbr.txt bs=1 count=512</div></pre></td></tr></table></figure></p>
+<ol>
+<li>如何在文本里面进行复制、粘贴，删除行，删除全部，按行查找和按字母查找。</li>
+</ol>
+<p>以下操作全部在命令行状态操作，不要在编辑状态操作。<br>在文本里 移动到想要复制的行  按yy  想复制到哪就移动到哪，然后按P  就黏贴了<br>删除行  移动到改行 按dd<br>删除全部  dG  这里注意G一定要大写<br>按行查找  :90 这样就是找到第90行<br>按字母查找 /path  这样就是 找到path这个单词所在的位置，文本里可能存在多个,多次查找会显示在不同的位置。 </p>
+<ol>
+<li>手动安装grub</li>
+</ol>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">grub-install /dev/sda</div></pre></td></tr></table></figure>
+<ol>
+<li><p>修改内核参数</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">vi /etc/sysctl.conf  这里修改参数</div><div class="line">sysctl -p  刷新后可用</div></pre></td></tr></table></figure>
+</li>
+<li><p>在1-39内取随机数</p>
+</li>
+</ol>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">expr $[$RANDOM%39] + 1</div></pre></td></tr></table></figure>
+<p>RANDOM 随机数<br>%39 取余数 范围 0-38</p>
+<ol>
+<li>限制apache每秒新建连接数为1，峰值为3</li>
+</ol>
+<p>每秒新建连接数 一般都是由防火墙来做，apache本身好像无法设置每秒新建连接数，只能设置最大连接：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">iptables -A INPUT -d 172.16.100.1 -p tcp --dport 80 -m limit --limit 1/second  -j ACCEPT</div></pre></td></tr></table></figure></p>
+<p>硬件防火墙设置更简单，有界面化，可以直接填写数字。。。<br>最大连接 apache本身可以设置<br>MaxClients 3  ,修改apache最大连接 前提还是要修改系统默认tcp连接数。我博客里也说了，这就不说了。</p>
+<ol>
+<li>FTP的主动模式和被动模式</li>
+</ol>
+<p>FTP协议有两种工作方式：PORT方式和PASV方式，中文意思为主动式和被动式。<br>PORT（主动）方式的连接过程是：客户端向服务器的FTP端口（默认是21）发送连接请 求，服务器接受连接，建立一条命令链路。当需要传送数据时，客户端在命令链路上用PORT 命令告诉服务器：“我打开了XX端口，你过来连接我”。于是服务器从20端口向客户端的 XX端口发送连接请求，建立一条数据链路来传送数据。<br>PASV（被动）方式的连接过程是：客户端向服务器的FTP端口（默认是21）发送连接请 求，服务器接受连接，建立一条命令链路。当需要传送数据时，服务器在命令链路上用PASV 命令告诉客户端：“我打开了XX端口，你过来连接我”。于是客户端向服务器的XX端口 发送连接请求，建立一条数据链路来传送数据。<br>从上面可以看出，两种方式的命令链路连接方法是一样的，而数据链路的建立方法就完 全不同。</p>
+<ol>
+<li>显示<code>/etc/inittab</code>中以#开头，且后面跟了一个或者多个空白字符，而后又跟了任意非空白字符的行</li>
+</ol>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">grep &quot;^# \&#123;1,\&#125;[^ ]&quot; /etc/inittab</div></pre></td></tr></table></figure>
+<ol>
+<li>显示/etc/inittab中包含了:一个数字:(即两个冒号中间一个数字)的行</li>
+</ol>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">grep &quot;\:[0-9]\&#123;1\&#125;\:&quot; /etc/inittab</div></pre></td></tr></table></figure>
+<ol>
+<li>怎么把脚本添加到系统服务里，即用service来调用</li>
+</ol>
+<p>在脚本里加入</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">#!/bin/bash</div><div class="line"># chkconfig: 345 85 15</div><div class="line"># description: httpd</div></pre></td></tr></table></figure>
+<p>然后保存<br>chkconfig httpd –add  创建系统服务<br>现在就可以使用service 来 start or restart</p>
+<ol>
+<li>写一个脚本，实现批量添加20个用户，用户名为user01-20，密码为user后面跟5个随机字符</li>
+</ol>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">#!/bin/bash</div><div class="line">#description: useradd</div><div class="line">for i in `seq -f&quot;%02g&quot; 1 20`;do</div><div class="line">useradd user$i</div><div class="line">echo &quot;user$i-`echo $RANDOM|md5sum|cut -c 1-5`&quot;|passwd –stdinuser$i &gt;/dev/null 2&gt;&amp;1</div><div class="line">done</div></pre></td></tr></table></figure>
+<ol>
+<li>写一个脚本，实现判断192.168.1.0/255网络里，当前在线的IP有哪些，能ping通则认为在线</li>
+</ol>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div></pre></td><td class="code"><pre><div class="line"></div><div class="line">#!/bin/bash</div><div class="line">for ip in `seq 1 255`</div><div class="line">  do</div><div class="line">    &#123;</div><div class="line">     ping -c 1 192.168.1.$ip &gt; /dev/null 2&gt;&amp;1</div><div class="line">     if [ $? -eq 0 ]; then</div><div class="line">          echo 192.168.1.$ip UP</div><div class="line">     else</div><div class="line">          echo 192.168.1.$ip DOWN</div><div class="line">     fi</div><div class="line">   &#125;&amp;</div><div class="line">done</div><div class="line">wait</div></pre></td></tr></table></figure>
+<ol>
+<li>写一个脚本，判断一个指定的脚本是否是语法错误；如果有错误，则提醒用户键入Q或者q无视错误并退出其它任何键可以通过vim打开这个指定的脚本</li>
+</ol>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div></pre></td><td class="code"><pre><div class="line">[root@localhost  tmp]# cat checksh.sh</div><div class="line"> #!/bin/bash</div><div class="line"> read -p &quot;please input check script-&gt; &quot; file</div><div class="line"> if [ -f $file ]; then</div><div class="line">    sh -n $file &gt; /dev/null 2&gt;&amp;1</div><div class="line">    if [ $? -ne 0 ]; then</div><div class="line">        read -p &quot;You input $file syntax error,[Type q to exit or Type vim to  edit]&quot; answer</div><div class="line">        case $answer in</div><div class="line">        q | Q)</div><div class="line">           exit 0</div><div class="line">           ;;</div><div class="line">        vim )</div><div class="line">           vim $file</div><div class="line">           ;;</div><div class="line">        *）</div><div class="line">         exit 0</div><div class="line">         ;;</div><div class="line">        esac</div><div class="line">   fi</div><div class="line"> else</div><div class="line">    echo &quot;$file not exist&quot;</div><div class="line">    exit 1</div><div class="line"> fi</div></pre></td></tr></table></figure>
+<ol>
+<li>写一个脚本：(26包括3个小题)</li>
+</ol>
+<p>1、创建一个函数，能接受两个参数：<br>1)第一个参数为URL，即可下载的文件；第二个参数为目录，即下载后保存的位置；<br>2)如果用户给的目录不存在，则提示用户是否创建；如果创建就继续执行，否则，函数返回一个51的错误值给调用脚本；<br>3)如果给的目录存在，则下载文件；下载命令执行结束后测试文件下载成功与否；如果成功，则返回0给调用脚本，否则，返回52给调用脚本；<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div></pre></td><td class="code"><pre><div class="line">[root@localhost tmp]# cat downfile.sh</div><div class="line">#!/bin/bash</div><div class="line">url=$1</div><div class="line">dir=$2</div><div class="line">download()</div><div class="line">  &#123;</div><div class="line">    cd $dir &gt;&gt; /dev/null 2&gt;&amp;1</div><div class="line">    if [ $? -ne 0 ];then</div><div class="line">        read -p &quot;$dir No such file or directory,create?(y/n)&quot; answer</div><div class="line">        if [ &quot;$answer&quot; == &quot;y&quot; ];then</div><div class="line">            mkdir -p $dir</div><div class="line">            cd $dir</div><div class="line">            wget $url 1&gt; /dev/null 2&gt;&amp;1</div><div class="line">        else</div><div class="line">            return &quot;51&quot;</div><div class="line">        fi</div><div class="line">    fi</div><div class="line">    if [ $? -ne 0 ]; then</div><div class="line">        return &quot;52&quot;</div><div class="line">    fi</div><div class="line">&#125;</div><div class="line">download $url $dir</div><div class="line">echo $?</div></pre></td></tr></table></figure></p>
+<ol>
+<li>写一个脚本：（27包括2个小题）</li>
+</ol>
+<p>1、创建一个函数，可以接受一个磁盘设备路径（如<code>/dev/sdb</code>）作为参数;在真正开始后面步骤之前提醒用户有危险，并让用户选择是否继续；而后将此磁盘设备上的所有分区清空（提示，使用命令<code>dd if=/dev/zero of=/dev/sdb bs=512 count=1</code>实现，注意其中的设备路径不要写错了；<br>如果此步骤失败，返回67给主程序；<br>接着在此磁盘设备上创建两个主分区，一个大小为100M，一个大小为1G；如果此步骤失败，返回68给主程序；<br>格式化此两分区，文件系统类型为ext3；如果此步骤失败，返回69给主程序；<br>如果上述过程都正常，返回0给主程序；<br>2、调用此函数；并通过接收函数执行的返回值来判断其执行情况，并将信息显示出来；<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div></pre></td><td class="code"><pre><div class="line">local Darray=(`ls /dev/sd[a-z]`)</div><div class="line">for i in $&#123;Darray&#125;;do</div><div class="line">  [[ &quot;$i&quot; == &quot;$1&quot; ]] &amp;&amp; Sd=$i &amp;&amp;break</div><div class="line">done</div><div class="line">  else</div><div class="line">  return66</div><div class="line">  fi</div><div class="line">#当匹配成功，进入选择，告诉用户，是否继续，输错的话进入无限循环，当用户选择Y,则清空目标分区，且跳出while循环</div><div class="line">while :;do</div><div class="line">    read -p &quot;Warning!!!This operation will clean $Sd data.Next=y,Quit=n [y|n]:&quot; Choice</div><div class="line">    case $Choice in</div><div class="line">y)</div><div class="line">   dd if=/dev/zero of=$Sd bs=512 count=1 &amp;&gt; /dev/null &amp;&amp;break || return 67 ;;</div><div class="line">n)</div><div class="line">   exit 88 ;;</div><div class="line">*)</div><div class="line">   echo &quot;Invalid choice,please choice again.&quot; ;;</div><div class="line">esac</div><div class="line">done</div><div class="line">#使用echo传递给fdisk进行分区，如果此命令失败，则跳转出去，错误值68，需要注意的是，有时候这个返回值很诡异，笔者之前成功与否都是返回的1，后来重启之后，就好了，如果慎重的话，可以对创建的分区，进行判断，不过就需要使用其他工具截取相关字段了，虽有些小麻烦，但无大碍</div></pre></td></tr></table></figure></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">echo-e &quot;n\np\n1\n\n+100M\nn\np\n2\n\n+1024M\nw\n&quot;|fdisk /dev/sdb&amp;&gt; /dev/null || return 68</div><div class="line">#格式化之前，让内核重新读取磁盘分区表，值得注意的是，有的系统版本，使用partprobe无效，譬如笔者的环境是rhel5.8，而rhel6.0以后，这个命令就很危险了，而使用partx -a /dev/sdb则效果更好…此项需慎重，如果格式化失败，则告知把失败的分区定义成变量，且跳出函数，并带出错误值69</div></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line">`partprobe`</div><div class="line">Part=`fdisk -l /dev/$Sd|tail -2|cut -d” ” -f1`</div><div class="line">for M in $&#123;Part&#125;;do</div><div class="line">   mke2fs -j $M &amp;&gt; /dev/null &amp;&amp; ErrorPart=$M &amp;&amp;return 69</div><div class="line">done</div><div class="line">  return 0</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div></pre></td><td class="code"><pre><div class="line">#下面代码，调用函数，接收函数返回值，根据返回值进行判断哪里出错。</div><div class="line"></div><div class="line">Disk_Mod $1</div><div class="line">Res=$?</div><div class="line">[ $Res-eq 0 ] &amp;&amp; exit 0</div><div class="line">[ $Res-eq 66 ] &amp;&amp; echo &quot;Error! Invalid input.&quot;</div><div class="line">[ $Res-eq 67 ] &amp;&amp; echo &quot;Error! Command -&gt; dd &lt;- Faild.&quot;</div><div class="line">[ $Res-eq 68 ] &amp;&amp; echo &quot;Error! Command -&gt; fdisk &lt;- Faild.&quot;</div><div class="line">[ $Res-eq 69 ] &amp;&amp; echo &quot;Error! Command -&gt; mke2fs &lt;- Faild.&quot;</div></pre></td></tr></table></figure>
+          
+        
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+
+
+    
+      
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
+    <link itemprop="mainEntityOfPage" href="https://dearamaze.com/2017/04/13/服务器搭建之路/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Dear Amaze">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/avatar2.jpg">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="DearAmaze-桀骜良">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+            
+            
+              
+                
+                <a class="post-title-link" href="/2017/04/13/服务器搭建之路/" itemprop="url">
+                  服务器搭建之路
+                </a>
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2017-04-13T17:20:14+08:00">
+                2017-04-13
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/服务器搭建/" itemprop="url" rel="index">
+                    <span itemprop="name">服务器搭建</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+             <span id="/2017/04/13/服务器搭建之路/" class="leancloud_visitors" data-flag-title="服务器搭建之路">
+               <span class="post-meta-divider">|</span>
+               <span class="post-meta-item-icon">
+                 <i class="fa fa-eye"></i>
+               </span>
+               
+                 <span class="post-meta-item-text">阅读次数 </span>
+               
+                 <span class="leancloud-visitors-count"></span>
+             </span>
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          
+            <ul>
+<li><p><a href="https://linux.cn/article-2436-1.html" target="_blank" rel="external">Linux下Nagios的安装与配置</a></p>
+</li>
+<li><p><a href="http://blog.topspeedsnail.com/archives/3049" target="_blank" rel="external">在Ubuntu上安装配置Ganglia</a></p>
+</li>
+</ul>
+
+          
+        
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+
+
+    
+  </section>
+
+  
+  <nav class="pagination">
+    <span class="page-number current">1</span><a class="page-number" href="/page/2/">2</a><span class="space">&hellip;</span><a class="page-number" href="/page/5/">5</a><a class="extend next" rel="next" href="/page/2/"><i class="fa fa-angle-right"></i></a>
+  </nav>
+
+
+
+          </div>
+          
+
+
+          
+
+        </div>
+        
+          
+  
+  <div class="sidebar-toggle">
+    <div class="sidebar-toggle-line-wrap">
+      <span class="sidebar-toggle-line sidebar-toggle-line-first"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-middle"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-last"></span>
+    </div>
+  </div>
+
+  <aside id="sidebar" class="sidebar">
+    <div class="sidebar-inner">
+
+      
+
+      
+
+      <section class="site-overview sidebar-panel sidebar-panel-active">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <img class="site-author-image" itemprop="image"
+               src="/images/avatar2.jpg"
+               alt="Dear Amaze" />
+          <p class="site-author-name" itemprop="name">Dear Amaze</p>
+           
+              <p class="site-description motion-element" itemprop="description">最穷不过要饭丶不死总会出头</p>
+          
+        </div>
+        <nav class="site-state motion-element">
+
+          
+            <div class="site-state-item site-state-posts">
+              <a href="/archives">
+                <span class="site-state-item-count">44</span>
+                <span class="site-state-item-name">日志</span>
+              </a>
+            </div>
+          
+
+          
+            
+            
+            <div class="site-state-item site-state-categories">
+              <a href="/categories/index.html">
+                <span class="site-state-item-count">14</span>
+                <span class="site-state-item-name">分类</span>
+              </a>
+            </div>
+          
+
+          
+            
+            
+            <div class="site-state-item site-state-tags">
+              <a href="/tags/index.html">
+                <span class="site-state-item-count">24</span>
+                <span class="site-state-item-name">标签</span>
+              </a>
+            </div>
+          
+
+        </nav>
+
+        
+
+        <div class="links-of-author motion-element">
+          
+            
+              <span class="links-of-author-item">
+                <a href="https://github.com/fdl66" target="_blank" title="github">
+                  
+                    <i class="fa fa-fw fa-globe"></i>
+                  
+                  github
+                </a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://weibo.com/u/2610114953?refer_flag=1001030102_&is_all=1" target="_blank" title="微博">
+                  
+                    <i class="fa fa-fw fa-weibo"></i>
+                  
+                  微博
+                </a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="https://www.zhihu.com/people/ao-jie-88/answers" target="_blank" title="知乎">
+                  
+                    <i class="fa fa-fw fa-vimeo"></i>
+                  
+                  知乎
+                </a>
+              </span>
+            
+          
+        </div>
+
+        
+        
+
+        
+        
+          <div class="links-of-blogroll motion-element links-of-blogroll-inline">
+            <div class="links-of-blogroll-title">
+              <i class="fa  fa-fw fa-globe"></i>
+              Links
+            </div>
+            <ul class="links-of-blogroll-list">
+              
+                <li class="links-of-blogroll-item">
+                  <a href="http://hello-fh.com/" title="浩哥" target="_blank">浩哥</a>
+                </li>
+              
+            </ul>
+          </div>
+        
+
+        
+
+
+      </section>
+
+      
+
+      
+
+    </div>
+  </aside>
+
+
+        
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="footer-inner">
+        <div class="copyright" >
+  
+  &copy;  2015 - 
+  <span itemprop="copyrightYear">2017</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">Dear Amaze</span>
+</div>
+
+
+<div class="powered-by">
+  由 <a class="theme-link" href="https://hexo.io">Hexo</a> 强力驱动
+</div>
+
+<div class="theme-info">
+  主题 -
+  <a class="theme-link" href="https://github.com/iissnan/hexo-theme-next">
+    NexT.Mist
+  </a>
+</div>
+
+
+        
+
+        
+      </div>
+    </footer>
+
+    
+      <div class="back-to-top">
+        <i class="fa fa-arrow-up"></i>
+        
+      </div>
+    
+
+  </div>
+
+  
+
+<script type="text/javascript">
+  if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
+    window.Promise = null;
+  }
+</script>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  <script type="text/javascript" src="/lib/jquery/index.js?v=2.1.3"></script>
+
+  
+  <script type="text/javascript" src="/lib/fastclick/lib/fastclick.min.js?v=1.0.6"></script>
+
+  
+  <script type="text/javascript" src="/lib/jquery_lazyload/jquery.lazyload.js?v=1.9.7"></script>
+
+  
+  <script type="text/javascript" src="/lib/velocity/velocity.min.js?v=1.2.1"></script>
+
+  
+  <script type="text/javascript" src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
+
+  
+  <script type="text/javascript" src="/lib/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/utils.js?v=5.1.0"></script>
+
+  <script type="text/javascript" src="/js/src/motion.js?v=5.1.0"></script>
+
+
+
+  
+  
+
+  
+
+  
+
+
+  <script type="text/javascript" src="/js/src/bootstrap.js?v=5.1.0"></script>
+
+
+
+  
+
+
+
+  
+
+
+
+
+	
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+  
+
+  <script type="text/javascript">
+    // Popup Window;
+    var isfetched = false;
+    // Search DB path;
+    var search_path = "search.xml";
+    if (search_path.length == 0) {
+      search_path = "search.xml";
+    }
+    var path = "/" + search_path;
+    // monitor main search box;
+
+    function proceedsearch() {
+      $("body")
+        .append('<div class="search-popup-overlay local-search-pop-overlay"></div>')
+        .css('overflow', 'hidden');
+      $('.popup').toggle();
+    }
+    // search function;
+    var searchFunc = function(path, search_id, content_id) {
+      'use strict';
+      $.ajax({
+        url: path,
+        dataType: "xml",
+        async: true,
+        success: function( xmlResponse ) {
+          // get the contents from search data
+          isfetched = true;
+          $('.popup').detach().appendTo('.header-inner');
+          var datas = $( "entry", xmlResponse ).map(function() {
+            return {
+              title: $( "title", this ).text(),
+              content: $("content",this).text(),
+              url: $( "url" , this).text()
+            };
+          }).get();
+          var $input = document.getElementById(search_id);
+          var $resultContent = document.getElementById(content_id);
+          $input.addEventListener('input', function(){
+            var matchcounts = 0;
+            var str='<ul class=\"search-result-list\">';
+            var keywords = this.value.trim().toLowerCase().split(/[\s\-]+/);
+            $resultContent.innerHTML = "";
+            if (this.value.trim().length > 1) {
+              // perform local searching
+              datas.forEach(function(data) {
+                var isMatch = false;
+                var content_index = [];
+                var data_title = data.title.trim().toLowerCase();
+                var data_content = data.content.trim().replace(/<[^>]+>/g,"").toLowerCase();
+                var data_url = decodeURIComponent(data.url);
+                var index_title = -1;
+                var index_content = -1;
+                var first_occur = -1;
+                // only match artiles with not empty titles and contents
+                if(data_title != '') {
+                  keywords.forEach(function(keyword, i) {
+                    index_title = data_title.indexOf(keyword);
+                    index_content = data_content.indexOf(keyword);
+                    if( index_title >= 0 || index_content >= 0 ){
+                      isMatch = true;
+                      if (i == 0) {
+                        first_occur = index_content;
+                      }
+                    }
+
+                  });
+                }
+                // show search results
+                if (isMatch) {
+                  matchcounts += 1;
+                  str += "<li><a href='"+ data_url +"' class='search-result-title'>"+ data_title +"</a>";
+                  var content = data.content.trim().replace(/<[^>]+>/g,"");
+                  if (first_occur >= 0) {
+                    // cut out 100 characters
+                    var start = first_occur - 20;
+                    var end = first_occur + 80;
+                    if(start < 0){
+                      start = 0;
+                    }
+                    if(start == 0){
+                      end = 50;
+                    }
+                    if(end > content.length){
+                      end = content.length;
+                    }
+                    var match_content = content.substring(start, end);
+                    // highlight all keywords
+                    keywords.forEach(function(keyword){
+                      var regS = new RegExp(keyword, "gi");
+                      match_content = match_content.replace(regS, "<b class=\"search-keyword\">"+keyword+"</b>");
+                    });
+
+                    str += "<p class=\"search-result\">" + match_content +"...</p>"
+                  }
+                  str += "</li>";
+                }
+              })};
+            str += "</ul>";
+            if (matchcounts == 0) { str = '<div id="no-result"><i class="fa fa-frown-o fa-5x" /></div>' }
+            if (keywords == "") { str = '<div id="no-result"><i class="fa fa-search fa-5x" /></div>' }
+            $resultContent.innerHTML = str;
+          });
+          proceedsearch();
+        }
+      });}
+
+    // handle and trigger popup window;
+    $('.popup-trigger').click(function(e) {
+      e.stopPropagation();
+      if (isfetched == false) {
+        searchFunc(path, 'local-search-input', 'local-search-result');
+      } else {
+        proceedsearch();
+      };
+    });
+
+    $('.popup-btn-close').click(function(e){
+      $('.popup').hide();
+      $(".local-search-pop-overlay").remove();
+      $('body').css('overflow', '');
+    });
+    $('.popup').click(function(e){
+      e.stopPropagation();
+    });
+  </script>
+
+
+
+
+
+  
+
+  
+  <script src="https://cdn1.lncld.net/static/js/av-core-mini-0.6.1.js"></script>
+  <script>AV.initialize("fOpTd1WjHbULIjn8MszImyoU-gzGzoHsz", "BD6q7tNiA5K8GhdTkj9uEy0u");</script>
+  <script>
+    function showTime(Counter) {
+      var query = new AV.Query(Counter);
+      var entries = [];
+      var $visitors = $(".leancloud_visitors");
+
+      $visitors.each(function () {
+        entries.push( $(this).attr("id").trim() );
+      });
+
+      query.containedIn('url', entries);
+      query.find()
+        .done(function (results) {
+          var COUNT_CONTAINER_REF = '.leancloud-visitors-count';
+
+          if (results.length === 0) {
+            $visitors.find(COUNT_CONTAINER_REF).text(0);
+            return;
+          }
+
+          for (var i = 0; i < results.length; i++) {
+            var item = results[i];
+            var url = item.get('url');
+            var time = item.get('time');
+            var element = document.getElementById(url);
+
+            $(element).find(COUNT_CONTAINER_REF).text(time);
+          }
+          for(var i = 0; i < entries.length; i++) {
+            var url = entries[i];
+            var element = document.getElementById(url);
+            var countSpan = $(element).find(COUNT_CONTAINER_REF);
+            if( countSpan.text() == '') {
+              countSpan.text(0);
+            }
+          }
+        })
+        .fail(function (object, error) {
+          console.log("Error: " + error.code + " " + error.message);
+        });
+    }
+
+    function addCount(Counter) {
+      var $visitors = $(".leancloud_visitors");
+      var url = $visitors.attr('id').trim();
+      var title = $visitors.attr('data-flag-title').trim();
+      var query = new AV.Query(Counter);
+
+      query.equalTo("url", url);
+      query.find({
+        success: function(results) {
+          if (results.length > 0) {
+            var counter = results[0];
+            counter.fetchWhenSave(true);
+            counter.increment("time");
+            counter.save(null, {
+              success: function(counter) {
+                var $element = $(document.getElementById(url));
+                $element.find('.leancloud-visitors-count').text(counter.get('time'));
+              },
+              error: function(counter, error) {
+                console.log('Failed to save Visitor num, with error message: ' + error.message);
+              }
+            });
+          } else {
+            var newcounter = new Counter();
+            /* Set ACL */
+            var acl = new AV.ACL();
+            acl.setPublicReadAccess(true);
+            acl.setPublicWriteAccess(true);
+            newcounter.setACL(acl);
+            /* End Set ACL */
+            newcounter.set("title", title);
+            newcounter.set("url", url);
+            newcounter.set("time", 1);
+            newcounter.save(null, {
+              success: function(newcounter) {
+                var $element = $(document.getElementById(url));
+                $element.find('.leancloud-visitors-count').text(newcounter.get('time'));
+              },
+              error: function(newcounter, error) {
+                console.log('Failed to create');
+              }
+            });
+          }
+        },
+        error: function(error) {
+          console.log('Error:' + error.code + " " + error.message);
+        }
+      });
+    }
+
+    $(function() {
+      var Counter = AV.Object.extend("Counter");
+      if ($('.leancloud_visitors').length == 1) {
+        addCount(Counter);
+      } else if ($('.post-title-link').length > 1) {
+        showTime(Counter);
+      }
+    });
+  </script>
+
+
+
+  
+
+  
+
+  
+
+</body>
+</html>
